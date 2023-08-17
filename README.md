@@ -1,4 +1,11 @@
 # React + Vite
+<a href="https://vitejs.dev" target="_blank">
+    <img src={viteLogo} className="logo" alt="Vite logo" />
+</a>
+<a href="https://react.dev" target="_blank">
+    <img src={reactLogo} className="logo react" alt="React logo" />
+</a>
+
 _ Consignas y requisitos de entrega
 La temática del formulario puede ser cualquiera de nuestra preferencia. Podemos solicitar información sobre música, animales, libros, autos, personajes o lo que deseemos.
 El formulario deberá contener, al menos, dos inputs de texto y un botón de tipo submit. Si lo deseamos, podemos agregar más inputs para hacer más completo nuestro formulario, pero esto es opcional.
